@@ -1,3 +1,4 @@
+![logo](https://github.com/AadrshSingh2000/AadrshSingh2000/blob/main/github-banner.jpg)
 <h1 align="center">Hi 👋, I'm Aadrsh Singh</h1>
 <h3 align="center">A passionate Software developer & Data Scientist from India</h3>
 
